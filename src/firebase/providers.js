@@ -27,7 +27,7 @@ export const signInWithGoogle = async() => {
 }
 
 
-export const registerUserWithemailPassword = async ({ email, password, displayName}) => {
+export const registerUserWithEmailPassword = async ({ email, password, displayName}) => {
 
     try {
 
